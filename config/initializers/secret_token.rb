@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Todosanz::Application.config.secret_key_base = 'ce95a0dc0a70dddb5691b3f01867b58f68660471568d8822349bc0f537a9d629b20048c36af2f994899a42820e0fc93ce57840f9411f0f4a8160308ce89696ae'
+Todosanz::Application.config.secret_key_base = 'c61abfa8c1c6efbeb146a913664d272fa770df29919a272655d738ad1bab42eda1377a7978b84ec04ace8368c7d56f1a962997af9eb494a87cb7a858d8c7397f'
